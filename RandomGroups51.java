@@ -9,6 +9,7 @@ public class RandomGroups51{
 
         ArrayList<String> arr  = readStudents();
         System.out.println(arr);
+        System.out.println("Testing commits");
     }
     public static ArrayList<String> readStudents(){
         ArrayList<String> arr  = new ArrayList<>();
