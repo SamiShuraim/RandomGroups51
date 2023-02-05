@@ -43,7 +43,7 @@ public class RandomGroups51{
         for (int i = 0; i< students.size();i++){
             groups.get(i%numOfGroups).add(students.get(i));
         }
-
+          System.out.println("Second developer was here.");
         System.out.println(groups);
     }
 }
