@@ -35,4 +35,8 @@ public class Sorter {
             System.out.print(arr[i] + " ");
         System.out.println();
     }
+
+    public static void array(int[] array) {
+        insertionSort(array);
+    }
 }
