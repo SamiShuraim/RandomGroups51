@@ -36,7 +36,7 @@ public class Sorter {
         System.out.println();
     }
 
-    public static void array(int[] array) {
+    public static void sort(int[] array) {
         insertionSort(array);
     }
 }
