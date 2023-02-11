@@ -36,7 +36,6 @@ public class Sorter {
         System.out.println();
     }
 
-    
     public static void sort(int[] array) {
         insertionSort(array);
     }
